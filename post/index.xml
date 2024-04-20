@@ -2,40 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ru^3 site</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://rururutan.github.io/post/</link>
     <description>Recent content in Posts on Ru^3 site</description>
     <generator>Hugo 0.125.1</generator>
     <language>ja-jp</language>
     <copyright>Ru^3</copyright>
-    <lastBuildDate>Sat, 20 Apr 2024 15:04:31 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Programs</title>
-      <link>http://localhost:1313/post/programs/</link>
-      <pubDate>Sat, 20 Apr 2024 14:59:36 +0900</pubDate>
-      <guid>http://localhost:1313/post/programs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hoot</title>
-      <link>http://localhost:1313/post/hoot/</link>
-      <pubDate>Sat, 20 Apr 2024 14:59:10 +0900</pubDate>
-      <guid>http://localhost:1313/post/hoot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>S98v3</title>
-      <link>http://localhost:1313/post/s98v3/</link>
-      <pubDate>Sat, 20 Apr 2024 14:59:00 +0900</pubDate>
-      <guid>http://localhost:1313/post/s98v3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/post/about/</link>
-      <pubDate>Sat, 20 Apr 2024 14:34:31 +0900</pubDate>
-      <guid>http://localhost:1313/post/about/</guid>
-      <description>Introduction Test</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://rururutan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
