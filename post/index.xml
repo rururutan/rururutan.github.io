@@ -7,7 +7,35 @@
     <generator>Hugo 0.125.1</generator>
     <language>ja-jp</language>
     <copyright>Ru^3</copyright>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 15:39:11 +0900</lastBuildDate>
     <atom:link href="https://rururutan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programs</title>
+      <link>https://rururutan.github.io/post/programs/</link>
+      <pubDate>Sat, 20 Apr 2024 14:59:36 +0900</pubDate>
+      <guid>https://rururutan.github.io/post/programs/</guid>
+      <description>&lt;p&gt;Links to programs I have created or maintain.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hoot</title>
+      <link>https://rururutan.github.io/post/hoot/</link>
+      <pubDate>Sat, 20 Apr 2024 14:59:10 +0900</pubDate>
+      <guid>https://rururutan.github.io/post/hoot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>S98v3</title>
+      <link>https://rururutan.github.io/post/s98v3/</link>
+      <pubDate>Sat, 20 Apr 2024 14:59:00 +0900</pubDate>
+      <guid>https://rururutan.github.io/post/s98v3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://rururutan.github.io/post/about/</link>
+      <pubDate>Sat, 20 Apr 2024 14:34:31 +0900</pubDate>
+      <guid>https://rururutan.github.io/post/about/</guid>
+      <description>Introduction Test</description>
+    </item>
   </channel>
 </rss>
